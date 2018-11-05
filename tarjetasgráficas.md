@@ -35,3 +35,18 @@ Durante los 90 la tecnología de las tarjetas gráficas siguió evolucionando ve
 A finales de los 90 las tarjetas gráficas empezaron a incorporar componentes dedicados para liberar de trabajo otras partes del ordenador, lo cual permitió aumentar enormemente las imagenes, apareciendo los sitemas de iluminación y sombras, "pixel shader" y "vertex shader".
 
 Durante la primera década del siglo 21 nVIDIA produjo junto a Audi una tarjeta que permitía que cada píxel se entendiera como un programa, para generar sombras y efectos gráficos avanzados. La evolución de las capacidades de procesamiento gráfico sigue avanzando hasta la actualidad, buscando entre otras cosas optimizar rendimiento y alcanzar nuevos logros.
+
+## Modelos actuales
+
+<p style="text-align: center;"> nVIDIA Titan X</p>
+
+![](https://thumb.pccomponentes.com/w-530-530/articles/8/80587/gigabyte-geforce-gtx-titan-x-12gb-gddr5-1.jpg)
+
+
+<p style="text-align: center;"> Nvidia GeForce GTX 1080</p>
+
+![](https://images.nvidia.com/geforce-com/international/images/nvidia-geforce-gtx-1080-ti/GeForce_GTX_1080ti_3qtr_top_left-640px.png)
+
+<p style="text-align: center;"> AMD Radeon R9 Fury X</p>
+
+![](https://ksassets.timeincuk.net/wp/uploads/sites/54/2015/07/R9-FuryX-Cooler-FrontView-4c-10inch-1-920x517.jpg)
