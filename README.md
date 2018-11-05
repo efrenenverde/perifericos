@@ -1,1 +1,1 @@
-"# perifericos" 
+Exposición 
